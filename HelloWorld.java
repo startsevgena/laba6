@@ -14,10 +14,10 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("125411"
-		+ "125403"
-		+ "125425"
-		+ "125870", d.width, d.height, g);
+drawCenteredString("125869"
+		+ "125846"
+		+ "125431"
+		+ "125863", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
