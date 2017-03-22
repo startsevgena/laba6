@@ -16,7 +16,7 @@ g.setColor(Color.black);
 g.setFont(f);
 drawCenteredString("15130148"
 		+ "15130759"
-		+ "133008"
+		+ "15170002"
 		+ "133009", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
