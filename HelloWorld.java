@@ -17,7 +17,7 @@ g.setFont(f);
 drawCenteredString("17130688"
 		+ "17170003"
 		+ "17130164"
-		+ "", d.width, d.height, g);
+		+ "17130469", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
