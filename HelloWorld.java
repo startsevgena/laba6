@@ -6,7 +6,7 @@
 import java.applet.*;
 import java.awt.*;
 public class HelloWorld extends Applet {
-final Font f = new Font("Helvetica", Font.BOLD, 18);
+final Font f = new Font("Helvetica", Font.BOLD, 17);
 
 public void paint(Graphics g) { 
 Dimension d = this.size();
@@ -14,10 +14,10 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("133006"
-		+ "133007"
-		+ "133008"
-		+ "133009", d.width, d.height, g);
+drawCenteredString("17130687"
+		+ "17130167"
+		+ "17130018 "
+		+ "17130162 ", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
