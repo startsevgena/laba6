@@ -6,7 +6,7 @@
 import java.applet.*;
 import java.awt.*;
 public class HelloWorld extends Applet {
-final Font f = new Font("Helvetica", Font.BOLD, 18);
+final Font f = new Font("Helvetica", Font.BOLD, 17);
 
 public void paint(Graphics g) { 
 Dimension d = this.size();
