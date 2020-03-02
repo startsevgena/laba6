@@ -1,8 +1,3 @@
-/*
-* <applet code="HelloWorld" width=200 height=100>
-* </applet>
-*
-*/
 import java.applet.*;
 import java.awt.*;
 public class HelloWorld extends Applet {
