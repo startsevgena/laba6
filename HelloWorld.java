@@ -14,10 +14,7 @@ g.setColor(Color.white);
 g.fillRect(0,0,d.width,d.height);
 g.setColor(Color.black);
 g.setFont(f);
-drawCenteredString("18130442", d.width, d.height, g);
-drawCenteredString("18130166", d.width, d.height, g);
-drawCenteredString("18130461", d.width, d.height, g);
-drawCenteredString("18130610", d.width, d.height, g);
+drawCenteredString("18130***", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
