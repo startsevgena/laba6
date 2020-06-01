@@ -8,7 +8,7 @@ public class Test6 {
 	public void test() {
 		int a = 6;
 		int b = 6;
-		int testValue = 6;
+		int testValue = 36;
 		int testingValue = 0;
 		testingValue = a * b;
 		assertEquals(testValue,  testingValue);
