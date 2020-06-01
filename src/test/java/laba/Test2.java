@@ -6,13 +6,12 @@ public class Test2 {
 
 	@org.junit.jupiter.api.Test
 	public void test() {
-		int a = 2;
-		int b = 2;
-		int testValue = 4;
+		int a = 10;
+		int b = a;
+		int testValue = 0;
 		int testingValue = 0;
-		testingValue = a * b;
+		testingValue = a - b;
 		assertEquals(testValue,  testingValue);
 		assertTrue(testValue == testingValue);
 	}
-
 }
