@@ -1,0 +1,4 @@
+language: java
+jdk:
+- oraclejdk14
+script: mvn test
